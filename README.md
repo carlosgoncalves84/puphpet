@@ -1,2 +1,2 @@
 # git_puphpet
-Virtual Machines for Web development
+Virtual Machine for Web development
