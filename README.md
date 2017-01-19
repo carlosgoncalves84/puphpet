@@ -1,2 +1,2 @@
 # git_puphpet
-Virtual Machine for Web development
+My Virtual Machine set up for Web development
